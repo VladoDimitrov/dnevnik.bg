@@ -1,0 +1,18 @@
+Available commands /Function - Command_to_enter|Parameter1__Parameter2__...|/:
+
+	Register new user - 10|Username__Password__Repeat Password|
+	Log In - 11|Username__Password|
+	Log Out - 12
+	Preview top articles - 20  
+	Write new article - 21|Title__Text__Tags/optional - "tag1 tag2 tag3"/| 
+	Read article - 22|Article ID|
+	Edit article - 23|Article ID__Title__Text|
+	Read comments of article - 32|Article ID|	
+	Comment on article - 33|Article ID__Comment text|	
+	Read comments of user - 31|Username|
+	Like/Dislike comment - 34/35|Comment ID|
+	Search/General,titles,text,tags/ - 40/41/42/43|Word to find|
+	Show available commands - 90
+	Exit - 00
+	
+	

@@ -1,0 +1,72 @@
+while (isRunning) {
+			System.out.println("What would you like to do next?");
+			String command = null;
+			Scanner in = new Scanner(System.in);
+			command = in.nextLine();
+			String[] params = command.split("\\||__");
+
+			switch (params[0]) {
+			case "10":
+				registerNewUser(params[1], params[2], params[3]);
+				pressToContinue();
+				break;
+			case "11":
+				currentUser = logIn(params[1], params[2]);
+				pressToContinue();
+				break;
+			case "12":
+				logOut();
+				pressToContinue();
+				break;
+			case "20":
+				preview();
+				pressToContinue();
+				break;
+			case "21":
+				writeArticle(params[1], params[2], params.length < 4 ? "" : params[3]);
+				pressToContinue();
+				break;
+			case "22":
+				readArticle(Integer.parseInt(params[1]));
+				pressToContinue();
+				break;
+			case "23":
+				editArticle(Integer.parseInt(params[1]), params[2], params[3]);
+				pressToContinue();
+				break;
+			case "32":
+				readCommentsOfArticle(Integer.parseInt(params[1]));
+				pressToContinue();
+				break;
+			case "33":
+				commentArticle(Integer.parseInt(params[1]), params[2]);
+				pressToContinue();
+				break;
+			case "31":
+				readCommentsOfUser(params[1]);
+				pressToContinue();
+				break;
+			case "34":
+				likeComment(Integer.parseInt(params[1]));
+				pressToContinue();
+				break;
+			case "35":
+				dislikeComment(Integer.parseInt(params[1]));
+				pressToContinue();
+				break;
+			case "40":
+			case "41":
+			case "42":
+			case "43":
+				searchForWord(Integer.parseInt(params[0]), params[1]);
+				pressToContinue();
+				break;
+			case "90":
+				showAvailableCommands();
+				break;
+			case "00":
+
+				System.out.println("Thank you for visiting! Until next time!");
+				isRunning = false;
+
+			}

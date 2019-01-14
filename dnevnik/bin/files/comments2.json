@@ -1,0 +1,72 @@
+[
+  {
+    "commentText": "Mnogo qka statiq, bravo!",
+    "user": "Pesho",
+    "article": 1,
+    "likes": 2,
+    "dis": 0,
+    "commentID": 1,
+    "idCounter": 7,
+    "dateAdded": "Apr 9, 2018 4:23:05 AM"
+  },
+  {
+    "commentText": "The best article in the world!",
+    "user": "Pesho",
+    "article": 1,
+    "likes": 0,
+    "dis": 3,
+    "commentID": 2,
+    "idCounter": 7,
+    "dateAdded": "Apr 9, 2018 9:50:39 AM"
+  },
+  {
+    "commentText": "Drug komentar na Pesho!",
+    "user": "Pesho",
+    "article": 1,
+    "likes": 0,
+    "dis": 0,
+    "commentID": 3,
+    "idCounter": 7,
+    "dateAdded": "Apr 9, 2018 10:15:21 AM"
+  },
+  {
+    "commentText": "Taka trqbva! Zaradi takiva kato vas Bulgaria 6te se opravi! Amin!",
+    "user": "Gosho",
+    "article": 1,
+    "likes": 0,
+    "dis": 0,
+    "commentID": 4,
+    "idCounter": 7,
+    "dateAdded": "Apr 10, 2018 12:46:25 PM"
+  },
+  {
+    "commentText": "Po bai toshovo vreme beshe drugoqche!",
+    "user": "Gosho",
+    "article": 2,
+    "likes": 1,
+    "dis": 0,
+    "commentID": 5,
+    "idCounter": 7,
+    "dateAdded": "Apr 10, 2018 12:48:24 PM"
+  },
+  {
+    "commentText": "Deeba teq selqnduri pak napulniha stolicata, ts ts ts ts...",
+    "user": "Pesho",
+    "article": 4,
+    "likes": 0,
+    "dis": 4,
+    "commentID": 6,
+    "idCounter": 7,
+    "dateAdded": "Apr 10, 2018 1:00:24 AM"
+  },
+  {
+    "commentText": "Samo dano ne vali :/ ",
+    "user": "Stamat",
+    "article": 3,
+    "likes": 0,
+    "dis": 0,
+    "commentID": 7,
+    "idCounter": 7,
+    "dateAdded": "Apr 10, 2018 1:11:12 AM"
+  }
+]

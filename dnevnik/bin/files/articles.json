@@ -1,0 +1,71 @@
+[
+  {
+    "author": "Pesho",
+    "title": "Novinite dnes",
+    "mainText": "Novinite sa dobri, nishto losho",
+    "comments": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tags": [],
+    "dateAdded": "Apr 9, 2018 4:22:35 AM",
+    "readCount": 2,
+    "articleID": 1
+  },
+  {
+    "author": "Pesho",
+    "title": "Mortut",
+    "mainText": "Tervel Pulev pobedi nqkakuv anonimnik!",
+    "comments": [
+      5
+    ],
+    "tags": [],
+    "dateAdded": "Apr 9, 2018 10:20:55 AM",
+    "readCount": 4,
+    "articleID": 2
+  },
+  {
+    "author": "Gosho",
+    "title": "Vremeto",
+    "mainText": "Oblachno s kufteta",
+    "comments": [
+      7
+    ],
+    "tags": [
+      "vreme",
+      "kufte",
+      "oblachno"
+    ],
+    "dateAdded": "Apr 10, 2018 12:33:15 PM",
+    "readCount": 2,
+    "articleID": 3
+  },
+  {
+    "author": "Stamat",
+    "title": "Intenzivem e trafikut po praznicite, karite vnimatelno i predpazlivo",
+    "mainText": "100 leki katastrofi stanaha dnes, za6toto shofiorite spqt! Vnimavaite",
+    "comments": [
+      6
+    ],
+    "tags": [
+      "shofior",
+      "put",
+      "traffic"
+    ],
+    "dateAdded": "Apr 10, 2018 12:58:04 PM",
+    "readCount": 0,
+    "articleID": 4
+  },
+  {
+    "author": "niki",
+    "title": "zaglavie",
+    "mainText": "masa tekst da ima",
+    "comments": [],
+    "tags": [],
+    "dateAdded": "Apr 10, 2018 11:06:33 AM",
+    "readCount": 1,
+    "articleID": 5
+  }
+]

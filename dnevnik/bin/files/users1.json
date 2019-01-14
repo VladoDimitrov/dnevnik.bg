@@ -1,0 +1,49 @@
+[
+  {
+    "username": "Pesho",
+    "password": "12345",
+    "articles": [
+      1,
+      2
+    ],
+    "isLogged": false,
+    "comments": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "username": "niki",
+    "password": "nanikipassa",
+    "articles": [
+      5
+    ],
+    "isLogged": true,
+    "comments": []
+  },
+  {
+    "username": "Gosho",
+    "password": "ludiq",
+    "articles": [
+      3
+    ],
+    "isLogged": false,
+    "comments": [
+      4,
+      5
+    ]
+  },
+  {
+    "username": "Stamat",
+    "password": "password",
+    "articles": [
+      4
+    ],
+    "isLogged": false,
+    "comments": [
+      7
+    ]
+  }
+]
